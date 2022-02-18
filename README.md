@@ -11,7 +11,7 @@ how to install this tools :
   pip3 install requests[socks]
   or just run install it will install everything
 
-1: git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
+1: git clone https://github.com/RajTechNation/IP-BOUNCER.git
 
 2 : cd Auto_Tor_IP_changer
 
@@ -29,5 +29,5 @@ how to install this tools :
 
 7 : BOOOOOOMM 
 
-============
-http://facebook.com/ninja.hackerz.kurdish/
+============ SUBSCRIBE ME NOW =====================
+https://www.youtube.com/channel/UC6SLxEboOGU5F_o4bduyO3g?sub_confirmation=1
