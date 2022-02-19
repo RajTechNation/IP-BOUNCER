@@ -6,10 +6,11 @@ This tool based on tor project
 how to install this tools :
 
 * : requirements:
+sudo apt-get install tor
 
-  sudo apt-get install tor
-  pip3 install requests[socks]
-  or just run install it will install everything
+pip3 install requests[socks]
+
+or just run install it will install everything
 
 1: git clone https://github.com/RajTechNation/IP-BOUNCER.git
 
