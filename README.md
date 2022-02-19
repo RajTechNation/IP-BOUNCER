@@ -13,7 +13,7 @@ how to install this tools :
 
 1: git clone https://github.com/RajTechNation/IP-BOUNCER.git
 
-2 : cd Auto_Tor_IP_changer
+2 : cd IP-BOUNCER-main
 
 3 : python3 install.py
 
